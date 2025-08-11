@@ -45,6 +45,7 @@ I can debug code faster than I can decide what to eat for lunch 🍔💻 (and th
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
@@ -60,9 +61,9 @@ I can debug code faster than I can decide what to eat for lunch 🍔💻 (and th
 
 ## 📫 Connect with Me  
 [![X](https://img.shields.io/badge/Twitter%20(X)-000000.svg?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-shaikh-950542213/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)  
-📩 **Email:** your.email@example.com  
+📩 **Email:** sameeritis10@gmail.com  
 
 ---
 
