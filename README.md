@@ -43,7 +43,6 @@ I can debug code faster than I can decide what to eat for lunch 🍔💻 (and th
 **Deployment & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -54,7 +53,7 @@ I can debug code faster than I can decide what to eat for lunch 🍔💻 (and th
 | Project | Description | Tech Stack | URL |
 |---------|-------------|------------|-----|
 | **Centsable – Expense Tracking System** | A MERN stack web app for tracking expenses, setting budgets, and generating financial insights. | MongoDB, Express, React, Node.js | https://centsable.onrender.com/ |
-| **The National Heritage Museum – Management System** | A museum management solution to handle exhibits, visitors, and staff efficiently. Built with Flask & SQLite. | Python, Flask, SQLite | *[Add URL]* |
+| **The National Heritage Museum – Management System** | A museum management solution to handle exhibits, visitors, and staff efficiently. Built with Flask & SQLite. | Python, Flask, SQLite | https://national-heritage-museum.onrender.com/ |
 | **Customer Churn Prediction** | AI/ML project where I trained a model to predict customer churn based on behavior patterns and transaction data. | Python, Pandas, Scikit-Learn | — |
 
 ---
