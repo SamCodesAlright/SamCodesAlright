@@ -1,6 +1,5 @@
 <!-- Animated Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AF626&width=700&lines=Hey+there!+I'm+Sameer+Shaikh;Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Exploring+Generative+AI+%26+Machine+Learning;Turning+Ideas+Into+Impact)](https://git.io/typing-svg)
-
 # Hey there! 👋 I'm Sameer Shaikh
 
 💻 **Full-Stack Developer** | 🤖 AI & Data Science Enthusiast | 🚀 Exploring the Future with GenAI & ML  
