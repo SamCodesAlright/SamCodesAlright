@@ -53,7 +53,7 @@ I can debug code faster than I can decide what to eat for lunch 🍔💻 (and th
 
 | Project | Description | Tech Stack | URL |
 |---------|-------------|------------|-----|
-| **Centsable – Expense Tracking System** | A MERN stack web app for tracking expenses, setting budgets, and generating financial insights. | MongoDB, Express, React, Node.js | *https://centsable.onrender.com/* |
+| **Centsable – Expense Tracking System** | A MERN stack web app for tracking expenses, setting budgets, and generating financial insights. | MongoDB, Express, React, Node.js | https://centsable.onrender.com/ |
 | **The National Heritage Museum – Management System** | A museum management solution to handle exhibits, visitors, and staff efficiently. Built with Flask & SQLite. | Python, Flask, SQLite | *[Add URL]* |
 | **Customer Churn Prediction** | AI/ML project where I trained a model to predict customer churn based on behavior patterns and transaction data. | Python, Pandas, Scikit-Learn | — |
 
