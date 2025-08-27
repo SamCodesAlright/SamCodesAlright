@@ -21,11 +21,6 @@ To **engineer intelligent, impactful solutions** that blend cutting-edge technol
 
 ---
 
-## ⚡ Fun Fact  
-I can debug code faster than I can decide what to eat for lunch 🍔💻 (and that’s saying something).
-
----
-
 ## 🛠️ Tech Stack
 
 **Programming Languages:**  
