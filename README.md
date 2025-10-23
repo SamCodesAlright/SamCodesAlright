@@ -54,6 +54,8 @@ To **engineer intelligent, impactful solutions** that blend cutting-edge technol
 | **Centsable – Expense Tracking System** | A MERN stack web app for tracking expenses, setting budgets, and generating financial insights. | MongoDB, Express, React, Node.js | https://centsable.onrender.com/ |
 | **The National Heritage Museum – Management System** | A museum management solution to handle exhibits, visitors, and staff efficiently. Built with Flask & SQLite. | Python, Flask, SQLite | https://national-heritage-museum.onrender.com/ |
 | **Customer Churn Prediction** | AI/ML project where I trained a model to predict customer churn based on behavior patterns and transaction data. | Python, Pandas, Scikit-Learn | — |
+| **SmartCV – AI-Powered Resume Enhancer** | An interactive web application that analyzes resumes, gives AI-powered scores, and provides actionable suggestions to improve resumes based on job title and description. | React, TypeScript, React Router DOM, Google Gemini | [Live Demo](https://aismartcv.netlify.app/) |
+
 
 ---
 
