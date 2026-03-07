@@ -51,7 +51,7 @@ To **engineer intelligent, impactful solutions** that blend cutting-edge technol
 
 | Project | Description | Tech Stack | URL |
 |---------|-------------|------------|-----|
-| **Centsable – Expense Tracking System** | A MERN stack web app for tracking expenses, setting budgets, and generating financial insights. | MongoDB, Express, React, Node.js | https://centsable.onrender.com/ |
+| **Centsable – Expense Tracking System** | A MERN stack web app for tracking expenses, setting budgets, and generating financial insights. | MongoDB, Express, React, Node.js | https://centsable-psi.vercel.app/ |
 | **The National Heritage Museum – Management System** | A museum management solution to handle exhibits, visitors, and staff efficiently. Built with Flask & SQLite. | Python, Flask, SQLite | https://national-heritage-museum.onrender.com/ |
 | **Customer Churn Prediction** | AI/ML project where I trained a model to predict customer churn based on behavior patterns and transaction data. | Python, Pandas, Scikit-Learn | — |
 | **SmartCV – AI-Powered Resume Enhancer** | An interactive web application that analyzes resumes, gives AI-powered scores, and provides actionable suggestions to improve resumes based on job title and description. | React, TypeScript, React Router DOM, Google Gemini | [Live Demo](https://aismartcv.netlify.app/) |
@@ -64,7 +64,7 @@ To **engineer intelligent, impactful solutions** that blend cutting-edge technol
 [![X](https://img.shields.io/badge/Twitter%20(X)-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SamShady08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-shaikh-950542213/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://sameer-s-portfolio.netlify.app/)  
-📩 **Email:** sameer.242470.it@mhssce.ac.in
+📩 **Email:** sameer.shaikh.se@gmail.com
 
 ---
 
