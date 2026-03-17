@@ -21,11 +21,11 @@
 
 I'm a **results-driven Full-Stack Developer** with hands-on experience building production-grade web applications and AI-powered systems. I specialize in architecting end-to-end solutions — from scalable REST APIs and secure backends to responsive, data-driven frontends.
 
-- 🏗️ Proficient in **Java**, **Python**, **JavaScript/TypeScript**, and the **MERN** stack — delivering robust, maintainable, and high-performance applications.
-- 🤖 Experienced in **AI/ML engineering** — from model training and evaluation to integrating **Generative AI** APIs (Google Gemini, OpenAI) into real-world production systems.
-- ⚙️ Skilled in backend development with **Flask** and **Django**, and modern frontend architecture using **Next.js**, **React**, and **TypeScript**.
-- 📊 Passionate about leveraging **data science** to extract actionable insights, detect patterns, and drive smarter product decisions.
-- 🚀 Practiced in **cloud deployment** and containerization using **Docker**, **AWS**, **Vercel**, and **Render** — with a focus on reliability and scalability.
+- Proficient in **Java**, **Python**, **JavaScript/TypeScript**, and the **MERN** stack — delivering robust, maintainable, and high-performance applications.
+- Experienced in **AI/ML engineering** — from model training and evaluation to integrating **Generative AI** APIs (Google Gemini, OpenAI) into real-world production systems.
+- Skilled in backend development with **Flask** and **Django**, and modern frontend architecture using **Next.js**, **React**, and **TypeScript**.
+- Passionate about leveraging **data science** to extract actionable insights, detect patterns, and drive smarter product decisions.
+- Practiced in **cloud deployment** and containerization using **Docker**, **AWS**, **Vercel**, and **Render** — with a focus on reliability and scalability.
 
 > 💡 _I don't just write code — I build solutions that solve real problems and scale with confidence._
 
@@ -79,7 +79,7 @@ I'm a **results-driven Full-Stack Developer** with hands-on experience building 
 
 ## 📌 Featured Projects
 
-### 🧠 [Mentora AI – AI-Powered Learning Assistant](https://github.com/sameershaikh)
+### 🧠 [Mentora AI – AI-Powered Learning Assistant](https://mentora-ai-zeta.vercel.app/login)
 > *Full-Stack AI Platform | Google Gemini API | JWT Auth | Cloudinary*
 
 A production-grade, full-stack AI learning platform that transforms static study material into interactive learning experiences.
