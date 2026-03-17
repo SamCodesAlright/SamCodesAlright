@@ -117,33 +117,6 @@ An intelligent resume analysis tool that helps job seekers craft competitive, AT
 
 `React` `TypeScript` `React Router DOM` `Google Gemini API` `Netlify`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameershaikh55&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Sameer's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sameershaikh55&theme=radical&hide_border=true" width="48%" alt="Sameer's Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameershaikh55&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameershaikh55&theme=radical&no-frame=true&row=1&column=6" width="96%" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameershaikh55&theme=react-dark&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
