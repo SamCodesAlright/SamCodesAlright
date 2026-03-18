@@ -1,5 +1,9 @@
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AF626&width=700&lines=Hey+there!+I'm+Sameer+Shaikh;Full-Stack+Developer;GenAI+Builder;Implementing+CI%2FCD+%26+Cloud+Workflows+%28AWS%2C+Docker%2C+Jenkins%29;Exploring+Data+Analytics+%26+Business+Intelligence;Building+Scalable%2C+Production-Ready+Systems)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AF626&width=700&lines=Hey+there!+I'm+Sameer+Shaikh;Full-Stack+Developer;GenAI+Builder;Implementing+CI%2FCD+%26+Cloud+Workflows+%28AWS%2C+Docker%2C+Jenkins%29;Exploring+Data+Analytics+%26+Business+Intelligence;Building+Scalable%2C+Production-Ready+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
 <h1 align="center">Hey there! 👋 I'm Sameer Shaikh</h1>
 
