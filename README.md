@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameer-shaikh-950542213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sameer-shaikh-lm44/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/SamShady08"><img src="https://img.shields.io/badge/Twitter%20(X)-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://sameer-s-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="mailto:sameer.shaikh.se@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -127,7 +127,7 @@ An intelligent resume analysis tool that helps job seekers craft competitive, AT
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameer-shaikh-950542213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sameer-shaikh-lm44/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/SamShady08"><img src="https://img.shields.io/badge/Twitter%20(X)-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://sameer-s-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="mailto:sameer.shaikh.se@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
