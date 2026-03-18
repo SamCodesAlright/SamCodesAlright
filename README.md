@@ -6,7 +6,7 @@
 <h1 align="center">Hey there! 👋 I'm Sameer Shaikh</h1>
 
 <p align="center">
-  <b>Full-Stack Developer &nbsp;|&nbsp; GenAI Builder &nbsp;|&nbsp; DevOps (AWS, Docker, Jenkins) &nbsp;|&nbsp; Data Analytics & BI (Beginner)</b><br/>
+  <b>Full-Stack Developer &nbsp;|&nbsp; GenAI Builder &nbsp;|&nbsp; DevOps (AWS, Docker, Jenkins) &nbsp;|&nbsp; Data Science & BI</b><br/>
   <i>Engineering intelligent, scalable systems that deliver measurable impact.</i>
 </p>
 
@@ -24,10 +24,10 @@
 I'm a **results-driven Full-Stack Developer** with hands-on experience building production-grade web applications and AI-powered systems. I specialize in architecting end-to-end solutions — from scalable REST APIs and secure backends to responsive, data-driven frontends.
 
 - Proficient in **Java**, **Python**, **JavaScript/TypeScript**, and the **MERN** stack — delivering robust, maintainable, and high-performance applications.
-- Experienced in **AI/ML engineering** — from model training and evaluation to integrating **Generative AI** APIs (Google Gemini, OpenAI) into real-world production systems.
+- Experienced in integrating **Generative AI** APIs (Google Gemini, OpenAI) into real-world production systems.
 - Skilled in backend development with **Flask** and **Django**, and modern frontend architecture using **Next.js**, **React**, and **TypeScript**.
-- Passionate about leveraging **data science** to extract actionable insights, detect patterns, and drive smarter product decisions.
-- Practiced in **cloud deployment** and containerization using **Docker**, **AWS**, **Vercel**, and **Render** — with a focus on reliability and scalability.
+- Practiced in **Data Science & BI** — applying concepts like EDA, classification, decision trees, and clustering to extract actionable insights using tools like Power BI, Tableau, and Excel alongside Python libraries.
+- Practiced in **DevOps** and cloud deployment using **Docker**, **AWS**, **Jenkins**, **Vercel**, and **Render** — with a focus on reliability and scalability.
 
 > 💡 _I don't just write code — I build solutions that solve real problems and scale with confidence._
 
@@ -38,10 +38,10 @@ I'm a **results-driven Full-Stack Developer** with hands-on experience building 
 | Capability | Details |
 |---|---|
 | 🔧 **Full-Stack Engineering** | End-to-end development from database schema to UI/UX |
-| 🤖 **AI Integration** | LLM APIs, NLP pipelines, ML model deployment |
+| 🤖 **AI Integration** | LLM APIs, NLP pipelines, GenAI-powered features |
 | 🔐 **Secure Backends** | JWT auth, REST API design, protected routes |
-| ☁️ **Cloud & DevOps** | Docker, AWS, Vercel, Render, Netlify |
-| 📊 **Data Science** | Predictive modeling, EDA, Scikit-Learn, Pandas |
+| ☁️ **Cloud & DevOps** | Docker, AWS, Jenkins, Vercel, Render, Netlify |
+| 📊 **Data Science & BI** | EDA, classification, decision trees, clustering, Power BI, Tableau, Excel |
 
 ---
 
@@ -62,15 +62,20 @@ I'm a **results-driven Full-Stack Developer** with hands-on experience building 
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-**AI / ML:**  
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+**Data Science & BI:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C7DBF.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Deployment & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
