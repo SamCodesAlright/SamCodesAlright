@@ -1,10 +1,10 @@
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AF626&width=700&lines=Hey+there!+I'm+Sameer+Shaikh;Full-Stack+Developer;DevOps+%28AWS%2C+Jenkins%2C+CI%2FCD%29;Data+Science+%26+Business+Intelligence;Building+Scalable%2C+Production-Ready+Systems;Turning+Data+Into+Insights+%26+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AF626&width=700&lines=Hey+there!+I'm+Sameer+Shaikh;Full-Stack+Developer;GenAI+Builder;Implementing+CI%2FCD+%26+Cloud+Workflows+%28AWS%2C+Docker%2C+Jenkins%29;Exploring+Data+Analytics+%26+Business+Intelligence;Building+Scalable%2C+Production-Ready+Systems)](https://git.io/typing-svg)
 
 <h1 align="center">Hey there! 👋 I'm Sameer Shaikh</h1>
 
 <p align="center">
-  <b>Full-Stack Developer &nbsp;|&nbsp; DevOps Practitioner (AWS, Jenkins, CI/CD) &nbsp;|&nbsp; Data Science & Business Intelligence &nbsp;|&nbsp; GenAI Builder</b><br/>
+  <b>Full-Stack Developer &nbsp;|&nbsp; GenAI Builder &nbsp;|&nbsp; DevOps (AWS, Docker, Jenkins) &nbsp;|&nbsp; Data Analytics & BI (Beginner)</b><br/>
   <i>Engineering intelligent, scalable systems that deliver measurable impact.</i>
 </p>
 
